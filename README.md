@@ -1,6 +1,8 @@
 # Simplified-Page-Rank
 Author: Lauren Dulick
 
+E-Portfolio: https://ldulick17.wixsite.com/e-portfolio
+
 # Description
 Google Search employs a pageRank algorithm to determine the ranking of web pages in its search engine results. This algorithm is utilized to order and prioritize various web pages across the internet. The internet comprises diverse web pages forming a graph, with each webpage as a node and each link between pages as an edge. In this project, I chose to implement an adjacency List graph. 
 
